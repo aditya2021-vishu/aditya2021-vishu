@@ -11,12 +11,13 @@ So, who I am
 - 📫 How to reach me: vishalsinghaditya526@gmail.com or [![LinkedIn: AdityaVishalSingh](https://img.shields.io/badge/-AdityaVishalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-vishal-singh-4b3275207/)](https://www.linkedin.com/in/aditya-vishal-singh-4b3275207/)
 
 [![Codechef](https://cp-logo.vercel.app/codechef/aditya_7101)](https://www.codechef.com/users/aditya_7101)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Adityavishal_)](https://codeforces.com/profile/Adityavishal_)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
+
+<img align="right" alt="GIF" src="https://ik.imagekit.io/dresma/Dresma_Library/software-engineer_5ZbEg3ObGvN.gif" width="400" height="450" />
 
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya2021-vishu&theme=tokyonight&count_private=true)
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=aditya2021-vishu&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
 <a href="https://github.com/aditya2021-vishu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2021-vishu&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
 
@@ -24,7 +25,6 @@ So, who I am
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aditya2021-vishu&theme=github&count_private=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya2021-vishu" alt="aditya2021-vishu" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-vishal-singh-4b3275207" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya-vishal-singh-4b3275207" height="30" width="40" /></a>
@@ -37,8 +37,9 @@ So, who I am
 <p align="left"> 
  </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-<br> ![](https://komarev.com/ghpvc/?username=arpitgupta1014&color=20B2AA&label=Views)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Reactjs" width="40" height="40"/> </a>
+<img src="https://techcrunch.com/wp-content/uploads/2019/06/MongoDB_Logo_FullColorBlack_RGB.png" alt="mongoDB" width="40" height="40"/> </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JEBlTE9UUk_6dL6oWeY4qYp7cexriJ5AcA&usqp=CAU" alt="nodejs" width="40" height="40"/> </a>
 
 </center>
 
