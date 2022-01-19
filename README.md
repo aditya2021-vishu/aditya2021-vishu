@@ -12,7 +12,7 @@ So, who I am
 
 [![Codechef](https://cp-logo.vercel.app/codechef/aditya_7101)](https://www.codechef.com/users/aditya_7101)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Adityavishal_)](https://codeforces.com/profile/Adityavishal_)
 
-<img align="right" alt="GIF" src="https://ik.imagekit.io/dresma/Dresma_Library/software-engineer_5ZbEg3ObGvN.gif" width="350" height="450" />
+<img align="right" alt="GIF" src="https://ik.imagekit.io/dresma/Dresma_Library/software-engineer_5ZbEg3ObGvN.gif" width="330" height="450" />
 
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya2021-vishu&theme=tokyonight&count_private=true)
