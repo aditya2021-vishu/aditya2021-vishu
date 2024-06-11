@@ -10,7 +10,7 @@ So, who I am
 - 💬 Always ready to help!
 - 📫 How to reach me: vishalsinghaditya526@gmail.com or [![LinkedIn: AdityaVishalSingh](https://img.shields.io/badge/-AdityaVishalSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-vishal-singh-4b3275207/)](https://www.linkedin.com/in/aditya-vishal-singh-4b3275207/)
 
-[![Codechef](https://cp-logo.vercel.app/codechef/aditya_7101)](https://www.codechef.com/users/aditya_7101)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Adityavishal_)](https://codeforces.com/profile/Adityavishal_)
+[![Codechef](https://cp-logo.vercel.app/codechef/aditya_7101)](https://www.codechef.com/users/aditya_7101)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/__NIGHTMARE)](https://codeforces.com/profile/__NIGHTMARE)
 
 <img align="right" alt="GIF" src="https://ik.imagekit.io/dresma/Dresma_Library/software-engineer_5ZbEg3ObGvN.gif" width="330" height="450" />
 
